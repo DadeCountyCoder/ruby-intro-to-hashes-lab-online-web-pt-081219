@@ -5,6 +5,7 @@ end
 
 def actor
   actor[:name]).to eq("Dwayne The Rock Johnson")
+  actor
 
 end
 
